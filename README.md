@@ -22,7 +22,7 @@ The steps for this homework are divided into the following sections:
 
 #### Results of Step 2: Compile and Deploy Your Contract
 
-    ![""](Images/deployed_contract.png)
+![""](Images/deployed_contract.png)
 
 #### Results of Step 3: Interact with Your Deployed Smart Contract
 
@@ -78,16 +78,4 @@ To interact with your deployed smart contract, complete the following steps:
     ![""](Images/10_ether_account2.png)
 
     ![""](Images/10_ether_account2_confirmation.png)
-
----
-
-### Submission
-
-* Upload the files for this assignment to your GitHub repository.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
-
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
